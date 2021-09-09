@@ -1,0 +1,3 @@
+class Halo
+  def run: (name: String) -> void
+end
